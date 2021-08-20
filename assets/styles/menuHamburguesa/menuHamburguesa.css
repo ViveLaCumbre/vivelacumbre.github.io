@@ -44,7 +44,7 @@ header {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  background-color: #FF7900;
+  background-color: #ff7900;
   /*decoracion de la lista desordenada*/
   /*Animación para que el menu se despliegue*/
 }
@@ -82,7 +82,7 @@ header ul li a:hover {
 }
 
 header ul li:hover {
-  background: #05AACF;
+  background: #05aacf;
   color: white;
 }
 
