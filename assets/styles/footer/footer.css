@@ -3,7 +3,6 @@ footer {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  position: absolute;
   background-color: #ff7900;
   width: 100%;
   -ms-flex-pack: distribute;
@@ -11,7 +10,6 @@ footer {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  bottom: 0px;
 }
 
 footer .politicas {

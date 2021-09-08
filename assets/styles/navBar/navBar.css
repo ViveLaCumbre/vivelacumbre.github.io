@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*estructura del encabezado*/
 header {
-  position: relative;
+  position: fixed;
   width: 100%;
   height: 45px;
   padding: 5px;

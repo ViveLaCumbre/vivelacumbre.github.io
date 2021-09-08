@@ -4,12 +4,11 @@
 footer{
     height: 60px;
     display: flex;
-    position: absolute;
     background-color: $color-orange;
     width: 100%;
     justify-content: space-around;
     align-items: center;
-    bottom: 0px;
+
 
     .politicas{
         text-decoration: none;
