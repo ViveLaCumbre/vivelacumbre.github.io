@@ -12,8 +12,23 @@
   src: url(../fonts/Fleepavlop.ttf) format("truetype"), url(../fonts/Fleepavlop.woff) format("woff");
 }
 
+@font-face {
+  font-family: "Fleepavlop-thin";
+  src: url(../fonts/Fleepavlop-Thin.ttf) format("truetype"), url(../fonts/Fleepavlop-Thin.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Fleepavlop-bold";
+  src: url(../fonts/Fleepavlop-Bold.ttf) format("truetype"), url(../fonts/Fleepavlop-Bold.woff) format("woff");
+}
+
+@font-face {
+  font-family: "DINPro";
+  src: url(../fonts/DINPro.otf) format("opentype");
+}
+
 body {
-  font-family: "Fleepavlop", sans-serif;
+  font-family: "Fleepavlop-thin", "DINPro", sans-serif;
 }
 
 .under-construction__container {

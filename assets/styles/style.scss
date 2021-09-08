@@ -3,8 +3,9 @@
 @import './abstracts/variables';
 
 body {
-  font-family: "Fleepavlop", sans-serif;
+  font-family: "Fleepavlop-thin", "DINPro", sans-serif;
 }
+
 .under-construction {
   &__container {
     background: #4f4f4f;
