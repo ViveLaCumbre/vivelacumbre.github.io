@@ -1,9 +1,8 @@
 # Ignora archivos del sistema Mac 
 .DS_Store
 
-!/assets/styles/style.css.map
-
 .sass-cache/
 *.css.map
+/assets/**/*.css.map
 *.sass.map
 *.scss.map
