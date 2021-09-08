@@ -1,10 +1,10 @@
+@import './base/reset';
+@import './base/typography';
 @import './abstracts/variables';
 
 body {
-  margin: 0;
-  }
-
-
+  font-family: "Fleepavlop", sans-serif;
+}
 .under-construction {
   &__container {
     background: #4f4f4f;

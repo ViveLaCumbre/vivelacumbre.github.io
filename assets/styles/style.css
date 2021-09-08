@@ -1,5 +1,19 @@
-body {
+/*normalizadores*/
+* {
   margin: 0;
+  padding: 0;
+  border: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Fleepavlop";
+  src: url(../fonts/Fleepavlop.ttf) format("truetype"), url(../fonts/Fleepavlop.woff) format("woff");
+}
+
+body {
+  font-family: "Fleepavlop", sans-serif;
 }
 
 .under-construction__container {
