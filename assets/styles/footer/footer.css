@@ -15,8 +15,6 @@
 }
 
 .footer .politicas {
-  -ms-flex-preferred-size: 33%;
-      flex-basis: 33%;
   text-align: center;
   text-decoration: none;
   color: black;
@@ -78,6 +76,8 @@
 }
 
 .footer__links {
+  -ms-flex-preferred-size: 33%;
+      flex-basis: 33%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
