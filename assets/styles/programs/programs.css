@@ -94,9 +94,6 @@
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
   text-decoration: none;
 }
 
@@ -133,7 +130,7 @@
             justify-content: space-between;
   }
   .programs__fotodesc {
-    padding: 0 105px;
+    padding: 0 32px;
   }
   .programs__travel {
     width: 40%;
