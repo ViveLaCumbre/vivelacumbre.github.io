@@ -8,9 +8,22 @@
     margin: 32px 0 24px;
   }
 
-  &__description,
+  &__description{
+    margin: 24px 0;
+
+  }
   &__travel {
     margin: 24px 0;
+    align-items: center;
+    border-radius: 10px;
+    border: 1px solid $color-blue;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    color: $color-gray;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-decoration: none;
   }
 
   &__fotodesc{
@@ -42,7 +55,8 @@
     margin: auto;
 
     &__flex{
-      display: flex; 
+      display: flex;
+      justify-content: space-between;
     }
 
     &__fotodesc{
@@ -50,7 +64,9 @@
     }
 
     &__travel {
+      width: 40%;
       text-align: center;
+
       &__image {
         max-width: 1080px; 
       }
