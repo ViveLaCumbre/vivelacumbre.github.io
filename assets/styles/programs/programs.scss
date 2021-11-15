@@ -2,7 +2,7 @@
 
 .programs{
 
-  .modal-container{
+  .modal-containerU, .modal-containerV{
     opacity: 0;
     visibility: hidden;
     position:fixed;
@@ -17,8 +17,8 @@
   }
 
   .modal{
-    width: 40%;
-    height: 50%;
+    width: 70%;
+    height: 70%;
     background: #fff;
     text-align: center;
     display: flex;
