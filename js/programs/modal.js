@@ -1,4 +1,5 @@
 let cerrar = document.querySelectorAll(".close")[0];
+let cerrarV = document.querySelectorAll(".close")[1];
 let abrirU = document.querySelector(".cta-u");
 let abrirV = document.querySelector(".cta-v");
 let modal = document.querySelectorAll(".modal")[0];
@@ -15,9 +16,9 @@ abrirU.addEventListener("click", function(e){
 
 abrirV.addEventListener("click", function(e){
     e.preventDefault();
-    modalC.style.opacity="1";
-    modalC.style.visibility="visible";
-    modal.classList.toggle("modal-close");
+    modalV.style.opacity="1";
+    modalV.style.visibility="visible";
+    modal2.classList.toggle("modal-close");
 })
 
 
