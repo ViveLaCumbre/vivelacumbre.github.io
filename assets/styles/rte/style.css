@@ -23,6 +23,10 @@
   min-height: calc(100vh - 85px);
 }
 
+.rte__container ul {
+  margin-left: 1em;
+}
+
 .rte__title {
   font-family: "Fleepavlop-thin", "DINPro", sans-serif;
   text-align: center;
@@ -30,6 +34,7 @@
 }
 
 .rte__content {
+  margin: auto;
   padding: 32px;
   max-width: 1080px;
 }
