@@ -1,15 +1,51 @@
-@import '../../abstracts/variables';
+@import '../abstracts/variables';
 
 #footer {
+	height: 55dvh;
 	padding: 10px;
-	font-size: 10px;
+	font-size: 0.7rem;
 	display: flex;
+	flex-direction: column;
 	flex-wrap: wrap;
-	background-color: $color-orange;
+	background-color: $color-blue;
 	width: 100%;
 	justify-content: space-around;
 	align-items: center;
 
+	.footer__information{
+		display: flex;
+		justify-content: space-evenly;
+		padding-top: 30px;
+
+		h3 {
+  	font-family: "Fleepavlop-thin", "DINPro", sans-serif;
+  	font-size: 1.3rem;
+		text-align: center;
+		padding-bottom: 30px;
+		}
+		
+
+		.logo{
+		width: 25dvw;
+		padding-bottom: 30px;
+		}
+
+		
+	}
+
+	
+
+		.footer__article{
+		width: 30%;
+	}
+
+	.footer__external-resources{
+		
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
 	.politicas {
 		text-align: center;
 
@@ -37,6 +73,8 @@
 		}
 	}
 
+	
+
 	.contenedor-redes {
 		flex-basis: 33%;
 		text-align: center;
@@ -58,13 +96,12 @@
 		}
 	}
 
-	&__links {
+	.footer__links {
 		flex-basis: 33%;
 		display: flex;
-		flex-direction: column;
 	}
 
-	&__additional_info {
+	.footer__additional_info {
 		margin-top: 1.5em;
 		flex-basis: 100%;
 		display: flex;

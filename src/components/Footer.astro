@@ -1,40 +1,55 @@
 ---
-import '../styles/footer/footer.css';
+import '../styles/footer/footer.scss';
 ---
 
 <footer id="footer">
-	<div class="footer__links">
-		<a target="_blank" href="https://drive.google.com/file/d/1ishJtYTOmNYKftv_X2j_LKaUuxEAlJSZ/view" class="politicas">Politicas de privacidad</a>
-		<a target="_blank" href="https://drive.google.com/file/d/1nB-E81i1x39zH0zRWM6jMGifQ29eC6Sh/view" class="politicas">Aviso de privacidad</a>
-		<a href="./rte.html" class="politicas">Régimen Tributario Especial</a>
-	</div>
+	<section class="footer__information">
+		<article class="footer__additional_info, footer__article">
+			<img class="logo" src="/img/Logo_blanco.png" alt="" class="logo" />
+			<p>
+				Info adicional:
+				<a target="_blank" href="mailto:contacto@vivelacumbre.org">contacto@vivelacumbre.org</a>
+			</p>
+			<p>
+				Fundación Vive la Cumbre somos una organización sin ánimo de lucro NIT <b>901.472.881</b>
+			</p>
+		</article>
+		<article class="footer__nosotros, footer__article">
+			<h3>Nosotros</h3>
+			<p>
+				En la fundación Vive La Cumbre transformamos la relación con el territorio al crear experiencias de conexión y conciencia de interdependencia con la naturaleza a través de la educación
+				socioemocial, experiencial y de aventura.
+			</p>
+		</article>
+		<article class="footer__article">
+			<h3>Síguenos en nuestras redes sociales</h3>
 
-	<div class="contenedor-redes">
-		<a target="_blank" href="https://www.linkedin.com/company/vive-la-cumbre/">
-			<img src="../img/signo-de-linkedin.png" alt="LinkedIn" />
-		</a>
-		<a target="_blank" href="https://www.instagram.com/vivelacumbre/">
-			<img src="../img/instagram.png" alt="instagram" />
-		</a>
-		<a target="_blank" href="https://www.facebook.com/vivelacumbre">
-			<img src="../img/facebook.png" alt="facebook" />
-		</a>
-	</div>
+			<div class="contenedor-redes">
+				<a target="_blank" href="https://www.linkedin.com/company/vive-la-cumbre/">
+					<img src="../img/signo-de-linkedin.png" alt="LinkedIn" />
+				</a>
+				<a target="_blank" href="https://www.instagram.com/vivelacumbre/">
+					<img src="../img/instagram.png" alt="instagram" />
+				</a>
+				<a target="_blank" href="https://www.facebook.com/vivelacumbre">
+					<img src="../img/facebook.png" alt="facebook" />
+				</a>
+			</div>
+		</article>
+	</section>
+	<section class="footer__external-resources">
+		<div class="footer__links">
+			<a target="_blank" href="https://drive.google.com/file/d/1ishJtYTOmNYKftv_X2j_LKaUuxEAlJSZ/view" class="politicas">Politicas de privacidad</a>
+			<a target="_blank" href="https://drive.google.com/file/d/1nB-E81i1x39zH0zRWM6jMGifQ29eC6Sh/view" class="politicas">Aviso de privacidad</a>
+			<a href="./rte.html" class="politicas">Régimen Tributario Especial</a>
+		</div>
 
-	<p class="citacion">
-		Desarrollado por:
-		<br />
-		<span>
-			<a target="_blank" href="https://www.linkedin.com/in/juanpa-ruiz/"> Juan Pablo Ruiz</a> - <a target="_blank" href="https://www.linkedin.com/in/erick-vergara-a782691a5/">Erick Vergara</a>
-		</span>
-	</p>
-	<div class="footer__additional_info">
-		<p>
-			Info adicional:
-			<a target="_blank" href="mailto:contacto@vivelacumbre.org">contacto@vivelacumbre.org</a>
+		<p class="citacion">
+			Desarrollado por:
+			<br />
+			<span>
+				<a target="_blank" href="https://www.linkedin.com/in/juanpa-ruiz/"> Juan Pablo Ruiz</a> - <a target="_blank" href="https://www.linkedin.com/in/erick-vergara-a782691a5/">Erick Vergara</a>
+			</span>
 		</p>
-		<p>
-			Fundación Vive la Cumbre somos una organización sin ánimo de lucro NIT <b>901.472.881</b>
-		</p>
-	</div>
+	</section>
 </footer>
