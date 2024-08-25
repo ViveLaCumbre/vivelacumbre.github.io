@@ -1,0 +1,65 @@
+.us {
+  padding: 0 24px;
+}
+.us__title {
+  text-align: center;
+  margin: 32px 0 24px;
+}
+.us__mission, .us__vision, .us__methodology, .us__article, .us__ods {
+  margin: 24px 0;
+  text-align: justify;
+}
+.us__mission__title, .us__vision__title, .us__methodology__title, .us__article__title, .us__ods__title {
+  margin: 16px 16px;
+}
+.us__mission__description strong, .us__vision__description strong, .us__methodology__description strong, .us__article__description strong, .us__ods__description strong {
+  color: #ff7900;
+}
+.us__methodology__image {
+  width: 100%;
+}
+.us__ods__container {
+  display: flex;
+  justify-content: space-around;
+}
+.us__ods__goal {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  border: 1px solid;
+  padding: 1em;
+  width: 40%;
+  max-width: 250px;
+}
+.us__ods__goal img {
+  width: 100%;
+}
+.us__ods__goal--4 {
+  border-color: #c8202f;
+}
+.us__ods__goal--13 {
+  border-color: #407f46;
+}
+.us.section-linked {
+  padding-top: 45px;
+  margin-top: -45px;
+}
+
+@media screen and (min-width: 600px) {
+  .us {
+    padding: 0 32px;
+    max-width: 1080px;
+    margin: auto;
+  }
+  .us__vision__title {
+    text-align: end;
+  }
+  .us__methodology {
+    text-align: center;
+  }
+  .us__methodology__image {
+    max-width: 1080px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
