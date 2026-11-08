@@ -8,7 +8,7 @@ header {
   top: 0;
   display: flex;
   justify-content: space-between;
-  background-color: #ff7900;
+  background-color: #93C695;
   z-index: 10;
   /*decoracion de la lista desordenada*/
   /*Animación para que el menu se despliegue*/
@@ -44,7 +44,7 @@ header ul li a:hover {
   color: #fff;
 }
 header ul li:hover {
-  background: #05aacf;
+  background: #d6d58e;
   color: white;
 }
 header ul li:active {
@@ -117,7 +117,7 @@ header .menu input:checked ~ span:nth-last-child(2) {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    background: #ff7900;
+    background: #93C695;
   }
   header nav .menu ul li {
     position: relative;

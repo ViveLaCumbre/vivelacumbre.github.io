@@ -1,79 +1,58 @@
 [
   {
-    "name": "Cristina",
+    "name": "Cristina Valdivieso DCosta",
     "photo_url": "./assets/img/Crisitina.png",
-    "nickname": "",
-    "role": "Coordinadora de sustentabilidad y Gestión de riesgos",
+    "nickname": "Socia",
+    "role": "Coordinadora Administrativa",
     "linkedin": "https://www.linkedin.com/in/cristinavaldiviesod/"
   },
   {
-    "name": "Ana Lucía",
+    "name": "Ana Lucía Marimón",
     "photo_url": "./assets/img/Ana.png",
-    "nickname": "",
-    "role": "Gestora de travesía (Urabá)",
+    "nickname": "Socia",
+    "role": "Red Micelios",
     "linkedin": "https://www.linkedin.com/in/ana-lucía-marimón-usuga-1a6a37122/"
   },
   {
-    "name": "Laura",
+    "name": "Laura Echeverri",
     "photo_url": "./assets/img/Laura.png",
-    "nickname": "",
-    "role": "Sustentabilidad",
+    "nickname": "Socia",
+    "role": "Comunicaciones y Consultoría Ambiental",
     "linkedin": "https://www.linkedin.com/in/laura-echeverri-mallarino-835583196/"
   },
   {
-    "name": "Daniela",
-    "photo_url": "./assets/img/Daniela.png",
-    "nickname": "",
-    "role": "Formación y Logística (Urabá)",
-    "linkedin": "https://www.linkedin.com/in/daniela-casas-b1497813a/"
+    "name": "Sofía Quintero Cristancho",
+    "photo_url": "./assets/img/Sofía.png",
+    "nickname": "Socia",
+    "role": "Coordinadora de Poryecto Somos Exprexiones de la Naturaleza",
+    "linkedin": " https://www.linkedin.com/in/sofiaquinteroc/"
   },
   {
-    "name": "Natalia A.",
+    "name": "Natalia Acuña Pradilla",
     "photo_url": "./assets/img/Nati-A.png",
-    "nickname": "",
-    "role": "Formación",
+    "nickname": "Socia",
+    "role": "Gerente General y Club de Lectura",
     "linkedin": "https://www.linkedin.com/in/natalia-acu%C3%B1a-pradilla-073b7472/"
   },
   {
-    "name": "Natalia R.",
-    "photo_url": "./assets/img/Nati-R.png",
-    "nickname": "",
-    "role": "Formación",
-    "linkedin": "https://www.linkedin.com/in/natalia-ramos-34672b42/"
+    "name": "Estefany Ruiz",
+    "photo_url": "./assets/img/Estefa.png",
+    "nickname": "Socia",
+    "role": "Comunicaciones y Red Micelios",
+    "linkedin": "https://www.linkedin.com/in/estefany-ruiz-ortega-691265169"
   },
   {
-    "name": "Bárbara",
-    "photo_url": "./assets/img/Barbara.png",
-    "nickname": "",
-    "role": "Gestora de travesía (Valle y Risaralda)",
-    "linkedin": "https://www.linkedin.com/in/b%C3%A1rbara-uribe-holgu%C3%ADn-47a460104/"
+    "name": "Mónica Romero",
+    "photo_url": "./assets/img/Moni.png",
+    "nickname": "Socia",
+    "role": "Comunicaciones y Red Micelios",
+    "linkedin": ""
   },
   {
-    "name": "Daniel",
-    "photo_url": "./assets/img/Daniel.png",
-    "nickname": "",
-    "role": "Monitoreo y Evaluación",
-    "linkedin": "https://www.linkedin.com/in/daniel-castillo-gomez/"
-  },
-  {
-    "name": "Eugenia",
+    "name": "Eugenia Echeverri",
     "photo_url": "./assets/img/Eugenia.png",
-    "nickname": "",
-    "role": "Formación",
+    "nickname": "Socia",
+    "role": "Consultoría Ambiental y Club de Lectura",
     "linkedin": "https://www.linkedin.com/in/eugenia-echeverri-aranzazu-801295b6/"
-  },
-  {
-    "name": "Vanessa",
-    "photo_url": "./assets/img/Vane.png",
-    "nickname": "",
-    "role": "Comunicaciones",
-    "linkedin": "http://linkedin.com/in/vanessa-ortiz-rios-034b15233"
-  },
-  {
-    "name": "Camila",
-    "photo_url": "./assets/img/Camila.png",
-    "nickname": "",
-    "role": "Monitoreo y evaluación",
-    "linkedin": "https://www.linkedin.com/in/mar%C3%ADa-camila-vega-salazar-472052188"
   }
 ]
