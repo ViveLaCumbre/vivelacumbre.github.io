@@ -1,22 +1,13 @@
 @font-face {
-  font-family: "Fleepavlop";
-  src: url(../fonts/Fleepavlop.ttf) format("truetype"),
-  url(../fonts/Fleepavlop.woff) format("woff");
+  font-family: "Telegraf";
+  src: url("../fonts/TelegrafRegular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
 }
 
 @font-face {
-  font-family: "Fleepavlop-thin";
-  src: url(../fonts/Fleepavlop-Thin.ttf) format("truetype"),
-  url(../fonts/Fleepavlop-Thin.woff) format("woff");
-}
-
-@font-face {
-  font-family: "Fleepavlop-bold";
-  src: url(../fonts/Fleepavlop-Bold.ttf) format("truetype"),
-  url(../fonts/Fleepavlop-Bold.woff) format("woff");
-}
-
-@font-face {
-  font-family: "DINPro";
-  src: url(../fonts/DINPro.otf) format("opentype");
+  font-family: "29LT Riwaya";
+  src: url("../fonts/29lt-riwaya-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
 }
