@@ -102,7 +102,7 @@
   background: transparent;
   outline: none;
   color: #000;
-  border: solid 1px #ff7900;
+  border: solid 1px #93C695;
   border-bottom: none;
   transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -110,7 +110,7 @@
   -ms-transition: all 0.3s ease-in-out;
 }
 .contact input:hover {
-  background: #ff7900;
+  background: #93C695;
   color: #e2dedb;
 }
 .contact textarea {
@@ -124,20 +124,20 @@
   color: #000;
   font-family: "Lato", sans-serif;
   font-size: 0.875em;
-  border: solid 1px #ff7900;
+  border: solid 1px #93C695;
   transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
 }
 .contact textarea:hover {
-  background: #ff7900;
+  background: #93C695;
   color: #e2dedb;
 }
 .contact__checkbox-container {
   display: flex;
   padding: 15px;
-  border: solid 1px #ff7900;
+  border: solid 1px #93C695;
 }
 .contact__checkbox-container input[type=checkbox] {
   width: auto;
@@ -152,13 +152,13 @@
   margin: -5px 0px 0px 0px;
   font-family: "Lato", sans-serif;
   font-size: 0.875em;
-  color: #ff7900;
+  color: #93C695;
   outline: none;
   cursor: pointer;
-  border: solid 1px #ff7900;
+  border: solid 1px #93C695;
   border-top: none;
 }
 .contact #submit:hover {
-  background-color: #05aacf;
+  background-color: #d6d58e;
   color: #4f4f4f;
 }/*# sourceMappingURL=style.css.map */

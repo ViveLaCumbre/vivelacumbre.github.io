@@ -1,6 +1,5 @@
-@import '../abstracts/variables';
-@import '../base/typography';
-
+@import "../abstracts/variables";
+@import "../base/typography";
 
 .rte {
   &__container {
@@ -13,7 +12,7 @@
   }
 
   &__title {
-    font-family: "Fleepavlop-thin", "DINPro", sans-serif;
+    font-family: "29LT Riwaya", sans-serif;
     text-align: center;
     margin: 32px 0 24px;
   }
