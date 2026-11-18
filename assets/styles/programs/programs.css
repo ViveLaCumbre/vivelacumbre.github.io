@@ -70,7 +70,7 @@
   padding-top: 45px;
   margin-top: -45px;
 }
-.programs__enseña {
+.programs__enseña, strong {
   text-decoration: none;
   color: #93C695;
 }
